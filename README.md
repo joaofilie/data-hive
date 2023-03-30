@@ -6,7 +6,7 @@
 
 - **Visualização de registros:** A página de visualização de registros exibe todas as pessoas cadastradas no banco de dados. É possível pesquisar por um nome específico ou filtrar por critérios como cpf ou e-mail. A página de visualização de registros também permite ao usuário editar ou excluir registros existentes.
 
-- ** Interface intuitiva:** A interface do usuário é simples e fácil de usar, com um layout responsivo que se adapta a diferentes tamanhos de tela.
+- **Interface intuitiva:** A interface do usuário é simples e fácil de usar, com um layout responsivo que se adapta a diferentes tamanhos de tela.
 
 - **Segurança:** Podemos destacar que estamos trabalhando para garantir que o sistema de login e o acesso ao banco de dados sejam seguros e estejam protegidos contra possíveis vulnerabilidades. No entanto, é importante ressaltar que, como este projeto ainda está em desenvolvimento, ainda pode haver vulnerabilidades não identificadas. Continuaremos trabalhando para aprimorar a segurança do sistema e garantir que as informações dos usuários sejam mantidas em segurança.
 
